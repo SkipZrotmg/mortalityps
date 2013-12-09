@@ -1,5 +1,5 @@
 * /addEff 1 == Quiet
-*/addEff 2 == Weak
+* /addEff 2 == Weak
 * /addEff 3 == Slowed
 * /addEff 4 == Sick
 * /addEff 5 == Dazed
