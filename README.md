@@ -52,8 +52,8 @@ Mortality Private Server ([Club559](https://github.com/Club559) source code)
 * /level x : Levels player to x   Tip: Dont go above level 20 or fame bar wont show
 * /rename [OldPlayerName] [NewPlayerName] : Renames specific player
 * /giveeff [Effectname or Effectnumber] [Playername without prefixes] : Gives player effect Tip: effects list [here](https://github.com/FishPhd/mortalityps/blob/master/Effects%20(For%20addeff%20command))
-* /remeff [Effectname or Effectnumber] [Playername without prefixes] : Removes player effect Tip: effects list [here](/mortalityps/setpiece.md))
-* /setpiece [setpieceID] : Creates new terrain with enemy IE: /setpiece skullshrine (will spawn skull shrine and skulls) Tip: setpiece list [here](https://github.com/FishPhd/mortalityps/blob/master/Setpiece%20(for%20setpiece%20command))
+* /remeff [Effectname or Effectnumber] [Playername without prefixes] : Removes player effect Tip: effects list [here](/mortalityps/Setpiece.md))
+* /setpiece [setpieceID] : Creates new terrain with enemy IE: /setpiece skullshrine (will spawn skull shrine and skulls) Tip: setpiece list [here](https://github.com/FishPhd/mortalityps/blob/master/Setpiece.md))
 
 #### Admin Commands (Rank 6):
 
