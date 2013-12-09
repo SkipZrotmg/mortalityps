@@ -51,8 +51,8 @@ Mortality Private Server ([Club559](https://github.com/Club559) source code)
 * /setguild [username] [guild id] : Adds player to guild (Should only be used by founders or leaders of guild)
 * /level x : Levels player to x   Tip: Dont go above level 20 or fame bar wont show
 * /rename [OldPlayerName] [NewPlayerName] : Renames specific player
-* /giveeff [Effectname or Effectnumber] [Playername without prefixes] : Gives player effect Tip: effects list [here](https://github.com/FishPhd/mortalityps/blob/master/Effects%20(For%20addeff%20command))
-* /remeff [Effectname or Effectnumber] [Playername without prefixes] : Removes player effect Tip: effects list [here](/mortalityps/Setpiece.md))
+* /giveeff [Effectname or Effectnumber] [Playername without prefixes] : Gives player effect Tip: effects list [here](https://github.com/FishPhd/mortalityps/blob/master/Effects.md))
+* /remeff [Effectname or Effectnumber] [Playername without prefixes] : Removes player effect Tip: effects list [here](https://github.com/FishPhd/mortalityps/blob/master/Effects.md))
 * /setpiece [setpieceID] : Creates new terrain with enemy IE: /setpiece skullshrine (will spawn skull shrine and skulls) Tip: setpiece list [here](https://github.com/FishPhd/mortalityps/blob/master/Setpiece.md))
 
 #### Admin Commands (Rank 6):
