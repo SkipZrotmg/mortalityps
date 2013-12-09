@@ -2,7 +2,7 @@ Mortality Private Server ([Club559](https://github.com/Club559) source code)
 ===========
 ## Install:
  
-1. Download mortality.swf
+1. Download mortality.swf [here](http://www.mediafire.com/download/xs93oy5rjrqpyzq/Mortality.swf)
 
 2. Open with Flash projecter found [here](http://download.macromedia.com/pub/flashplayer/updaters/11/flashplayer_11_sa.exe)
 
@@ -17,6 +17,7 @@ Mortality Private Server ([Club559](https://github.com/Club559) source code)
 #### Basic Commands(available to everyone):
 
 * /iswho : Show everyone online
+* access to all original rotmg commands
 
 #### Guest Commands(Rank 1):
 
@@ -52,7 +53,7 @@ Mortality Private Server ([Club559](https://github.com/Club559) source code)
 * /rename [OldPlayerName] [NewPlayerName] : Renames specific player
 * /giveeff [Effectname or Effectnumber] [Playername without prefixes] : Gives player effect Tip: effects list [here](https://github.com/FishPhd/mortalityps/blob/master/Effects%20(For%20addeff%20command))
 * /remeff [Effectname or Effectnumber] [Playername without prefixes] : Removes player effect Tip: effects list [here](https://github.com/FishPhd/mortalityps/blob/master/Effects%20(For%20addeff%20command))
-* /setpiece [setpieceID] : Creates new terrain with enemy IE: /setpiece skullshrine (will spawn skull shrine and skulls)
+* /setpiece [setpieceID] : Creates new terrain with enemy IE: /setpiece skullshrine (will spawn skull shrine and skulls) Tip: setpiece list [here](https://github.com/FishPhd/mortalityps/blob/master/Setpiece%20(for%20setpiece%20command))
 
 #### Admin Commands (Rank 6):
 
