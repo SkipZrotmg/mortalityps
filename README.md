@@ -2,6 +2,8 @@
 
 For any help, questions or ideas view [this link](https://docs.google.com/forms/d/1h2ZDUbSByecZB2MKgU9GyEfNHZ_NO2FglI8aDwUDTHA/viewform)
 
+Changelog [here]()
+
 ### Install:
  
 1. Download mortality.swf [here](http://www.mediafire.com/download/xs93oy5rjrqpyzq/Mortality.swf)
@@ -20,6 +22,8 @@ For any help, questions or ideas view [this link](https://docs.google.com/forms/
 
 * /iswho : Show everyone online
 * access to all original rotmg commands
+* /forge x y : forge items together with fame to make better ones(will have forge list up soon) tip: use x and y as slots in your inv to forge three things in slot 1 2 and 3 type /forge 1 2 3 (spaces inbetween!)
+* /sell x y z : Sells item in slot for immediate fame (will have price guide up sooon) tip: to sell multiple items type /sell 1 2 3 (spaces inbetween!)
 
 #### Guest Commands(Rank 1):
 
