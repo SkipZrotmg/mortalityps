@@ -26,8 +26,8 @@
 
 ### 12/6/2013
 * Oryx chicken added(with egg) drops anatis and cleg
-* pets have been added heal 100-95 but half the cooldown so more like 50-40(mp cooldown will be increased ot balance better)
-* Draconis bosses have been added with normal drop rates
+* pets have been added heal 100-95 but double the cooldown so more like 50-40(mp cooldown will be increased to balance better)
+* Draconis bosses have been added with normal drop rates(drops ray katana and celestial(will make eye of dragon drop ray when added)
 * Gods now have normal potion drop rates ~5%
 * Pyramid armor, sphinx robe, nile leather armor all added for forging(Best armor in the game so far, still balanced)
 * Demon set now drops in abyss consists of Demon blade, demon shield, demonic armor, bone ring (High vit good def, shield inflicts bleeding)
