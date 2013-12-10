@@ -18,6 +18,11 @@
 * Work on the gauntlet (will bhe added eventually best community dungeon by far)
 * New UTS (black bag) that are balanced and drop from harder dungeons
 * Admin realm/server (Really easy will most likely just be an open area for fucking around/testing)
+* adding forge list on github (with new recipes)
+* New items in nexus shop (Dyes :D/New keys) and unique clothes as drops (egyptian cloth from bes, nut, geb)
+* Increase Pets cost (maybe different pets with different abilities)
+* Donations through gold (with donator shop and donator rank)
+* Realm closing(as far as i have gotten is when all quests are done kicks everyone to nexus and opens key) may include oryx castle or just o1's chamber but it will have oryx chicken not o1
 
 ### 12/6/2013
 * Oryx chicken added(with egg) drops anatis and cleg
