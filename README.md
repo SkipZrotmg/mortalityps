@@ -2,7 +2,7 @@
 
 For any help, questions or ideas view [this link](https://docs.google.com/forms/d/1h2ZDUbSByecZB2MKgU9GyEfNHZ_NO2FglI8aDwUDTHA/viewform)
 
-Changelog [here]()
+Changelog [here](https://github.com/FishPhd/mortalityps/blob/master/Changelog.md)
 
 ### Install:
  
