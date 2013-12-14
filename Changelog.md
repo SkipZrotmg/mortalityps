@@ -24,7 +24,7 @@
 * Donations through gold (with donator shop and donator rank)
 * Realm closing(as far as i have gotten is when all quests are done kicks everyone to nexus and opens key) may include oryx castle or just o1's chamber but it will have oryx chicken not o1
 
-### 12/6/2013
+### 12/6/2013 (Build 1.0.0 Beta) 
 * Oryx chicken added(with egg) drops anatis and cleg
 * pets have been added heal 100-95 but double the cooldown so more like 50-40(mp cooldown will be increased to balance better)
 * Draconis bosses have been added with normal drop rates(drops ray katana and celestial(will make eye of dragon drop ray when added)
