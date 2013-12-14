@@ -6,7 +6,7 @@ Changelog [here](https://github.com/FishPhd/mortalityps/blob/master/Changelog.md
 
 ### Install:
  
-1. Download mortality.swf [here](http://www.mediafire.com/download/xs93oy5rjrqpyzq/Mortality.swf)
+1. Download mortality.swf [here](http://www.mediafire.com/download/4j51cf5fy5m977a/Mortality-0.0.1.swf)
 
 2. Open with Flash projecter found [here](http://download.macromedia.com/pub/flashplayer/updaters/11/flashplayer_11_sa.exe)
 
