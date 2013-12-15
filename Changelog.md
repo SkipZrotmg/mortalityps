@@ -21,6 +21,11 @@
 * Donations through gold (with donator shop and donator rank)
 * Realm closing(as far as i have gotten is when all quests are done kicks everyone to nexus and opens key) may include oryx castle or just o1's chamber but it will have oryx chicken not o1
 
+### 12/15/2013 (Build 1.0.3 Beta)
+* Pyramid, nile and sphinx armor now have rare drop from tomb bosses (new sprites)
+* new ut pizza (and i better get it too)(possible dunk boss?)
+* new sound effects and sprites(sounds are on my own dropbox now, swords and staves new sprites)
+
 ### 12/14/2013 (Build 1.0.2 Beta)
 * Draconis added (drops draconis items, black dragon drops celestial blade and ray katana(wll drop from rock dragon when coded)
 * Plague poison, resu and cc added
