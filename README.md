@@ -4,6 +4,8 @@ For any help, questions or ideas view [this link](https://docs.google.com/forms/
 
 Changelog [here](https://github.com/FishPhd/mortalityps/blob/master/Changelog.md)
 
+t14/t15 item list [here](http://www.mpgh.net/forum/654-realm-mad-god-discussions/647024-list-t7-t8-abilities-almost-done.html)
+
 ### Install:
  
 1. Download mortality.swf [here](http://www.mediafire.com/download/4j51cf5fy5m977a/Mortality-0.0.1.swf)
