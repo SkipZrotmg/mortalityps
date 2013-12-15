@@ -4,13 +4,13 @@ For any help, questions or ideas view [this link](https://docs.google.com/forms/
 
 Changelog [here](https://github.com/FishPhd/mortalityps/blob/master/Changelog.md)
 
-t14/t15 item list [here](http://www.mpgh.net/forum/654-realm-mad-god-discussions/647024-list-t7-t8-abilities-almost-done.html)
+T14/T15 and T7/T8 item list [here](http://www.mpgh.net/forum/654-realm-mad-god-discussions/647024-list-t7-t8-abilities-almost-done.html)
 
 ### Install:
  
-1. Download mortality.swf [here](https://www.mediafire.com/?55y5c2m3ryu7ztk)
+1. Download mortality.swf latest version is always [here](https://www.mediafire.com/?5pj3xr5je6pyf13)
 
-2. Open with Flash projecter found [here](http://download.macromedia.com/pub/flashplayer/updaters/11/flashplayer_11_sa.exe)
+2. Open with Flash projecter found[here](http://download.macromedia.com/pub/flashplayer/updaters/11/flashplayer_11_sa.exe)
 
 3. Open mortality.swf with Flash projector (right click> open with...> browse> find flash porjecter exe)
 
