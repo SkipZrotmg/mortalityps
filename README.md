@@ -8,7 +8,7 @@ t14/t15 item list [here](http://www.mpgh.net/forum/654-realm-mad-god-discussions
 
 ### Install:
  
-1. Download mortality.swf [here](http://www.mediafire.com/download/4j51cf5fy5m977a/Mortality-0.0.1.swf)
+1. Download mortality.swf [here](https://www.mediafire.com/?55y5c2m3ryu7ztk)
 
 2. Open with Flash projecter found [here](http://download.macromedia.com/pub/flashplayer/updaters/11/flashplayer_11_sa.exe)
 
