@@ -23,11 +23,13 @@
 
 ### 12/16/2013 (build 1.0.4 Beta)
 
-* Davy jones locker added(drop properly 
-* new behaviors for ruthven, mysterious crystal and doctor terrible
+* Beach bum added (drops davy key and beachzone) working on a setpiece for it so it can be found in the realm
+* Server fixes(auto restarter, packet changes)
+* Davy jones locker added(drop properly blanced)
+* New behaviors for ruthven, mysterious crystal and doctor terrible
 * New tomb behaviors with working sarc's (healing and all) New map in the works for this change
 * Added leaf bow, cutlass, and doku
-* new limon behavior and new thessal behavior inbound (coral bombs)
+* New limon behavior and new thessal behavior inbound (coral bombs)
 
 ### 12/15/2013 (Build 1.0.3 Beta)
 * Pyramid, nile and sphinx armor now have rare drop from tomb bosses (new sprites)
