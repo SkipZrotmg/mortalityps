@@ -21,6 +21,14 @@
 * Donations through gold (with donator shop and donator rank)
 * Realm closing(as far as i have gotten is when all quests are done kicks everyone to nexus and opens key) may include oryx castle or just o1's chamber but it will have oryx chicken not o1
 
+### 12/16/2013 (build 1.0.4 Beta)
+
+* Davy jones locker added(drop properly 
+* new behaviors for ruthven, mysterious crystal and doctor terrible
+* New tomb behaviors with working sarc's (healing and all) New map in the works for this change
+* Added leaf bow, cutlass, and doku
+* new limon behavior and new thessal behavior inbound (coral bombs)
+
 ### 12/15/2013 (Build 1.0.3 Beta)
 * Pyramid, nile and sphinx armor now have rare drop from tomb bosses (new sprites)
 * new ut pizza (and i better get it too)(possible dunk boss?)
