@@ -21,7 +21,16 @@
 * Donations through gold (with donator shop and donator rank)
 * Realm closing(as far as i have gotten is when all quests are done kicks everyone to nexus and opens key) may include oryx castle or just o1's chamber but it will have oryx chicken not o1
 
-### 12/17/2013 (build 1.0.5 Beta)
+### 12/17/2013 (Build 1.0.6 Beta)(New Client)
+
+* new helmet drops from bes (please tell me if you think it needs balancing)
+* Moved leaf bow, doku, cutlass sprites into client (Yay no more art) will move projectiles when i dont feel lazy
+* Sphinx hide armor no longer looks like shit(maybe should make it drop from sphinx not geb?)
+* Minor changes to misc behaviors
+* Removed all remaining shit left behind by blade master(if an art tile drops and is a blade master item tell me what it dropped from please)
+
+
+### 12/17/2013 (Build 1.0.5 Beta)(New Client)
 
 * Ninja added(ninja stars are buggy im working on it)
 * Manor added (working on kage kami for the drop as well as cemetary setpiece)
@@ -29,7 +38,7 @@
 * Tomb boss behaviors improved, sarcs work and tsarc (nut and geb sometimes dont rotate)
 * Various drop rate fixes
 
-### 12/16/2013 (build 1.0.4 Beta)
+### 12/16/2013 (Build 1.0.4 Beta)
 
 * Beach bum added (drops davy key and beachzone) working on a setpiece for it so it can be found in the realm
 * Server fixes(auto restarter, packet changes)
