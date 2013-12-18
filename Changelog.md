@@ -21,6 +21,14 @@
 * Donations through gold (with donator shop and donator rank)
 * Realm closing(as far as i have gotten is when all quests are done kicks everyone to nexus and opens key) may include oryx castle or just o1's chamber but it will have oryx chicken not o1
 
+### 12/17/2013 (build 1.0.5 Beta)
+
+* Ninja added(ninja stars are buggy im working on it)
+* Manor added (working on kage kami for the drop as well as cemetary setpiece)
+* packet loss bug fixes(smoother conections)
+* Tomb boss behaviors improved, sarcs work and tsarc (nut and geb sometimes dont rotate)
+* Various drop rate fixes
+
 ### 12/16/2013 (build 1.0.4 Beta)
 
 * Beach bum added (drops davy key and beachzone) working on a setpiece for it so it can be found in the realm
