@@ -8,7 +8,7 @@ T14/T15 and T7/T8 item list [here](http://www.mpgh.net/forum/654-realm-mad-god-d
 
 ### Install:
  
-1. Download mortality.swf latest version is always [here](https://www.mediafire.com/?cfpnan2tjohf699)
+1. Download mortality.swf latest version is always [here](https://www.mediafire.com/?j1a9r714oftm2w4)
 
 2. Open with Flash projecter found[here](http://download.macromedia.com/pub/flashplayer/updaters/11/flashplayer_11_sa.exe)
 
