@@ -23,6 +23,8 @@
 
 ### 12/17/2013 (Build 1.0.6 Beta)(New Client)
 
+* Edit2: Realm closing added!(Brings you to wc atm will be changed once i get o1s chamber done)(o1's castle will be added in the future)
+* Edit1: New Commands (/fame,/realmclose) should be self explanatory
 * new helmet drops from bes (please tell me if you think it needs balancing)
 * Moved leaf bow, doku, cutlass sprites into client (Yay no more art) will move projectiles when i dont feel lazy
 * Sphinx hide armor no longer looks like shit(maybe should make it drop from sphinx not geb?)
