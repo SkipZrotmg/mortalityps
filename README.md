@@ -1,5 +1,7 @@
 # Mortality Private Server ([Club559](https://github.com/Club559) source code)
 
+### I will not be updating or running the pserver till at least Jan 10th I have new hardware in my pc that should help increase server performance. I am currently back in school on my second quarter and college requires more time for big assignments. Any updates made will be small or on the side of bug fixes to help stabilize the server. Thanks for your patience hope to see you soon. -FishPhd
+
 For any help, questions or ideas view [this link](https://docs.google.com/forms/d/1h2ZDUbSByecZB2MKgU9GyEfNHZ_NO2FglI8aDwUDTHA/viewform)
 
 Changelog [here](https://github.com/FishPhd/mortalityps/blob/master/Changelog.md)
