@@ -1,6 +1,6 @@
 # Mortality Private Server ([Club559](https://github.com/Club559) source code)
 
-### Hey guys good news as I have settled in to my homework grind in college I have decided to work on the server again my pc is beffy as ever and I have done tons of network solving for the pserver and my normal internet. Expect faster load times and less down time. Im working on making a blog or some sort of website to show you my progress on upcoming builds but for now this should do -FishPhd
+### New Blog all info will be posted there http://mortalityps.wordpress.com/
 
 For any help, questions or ideas view [this link](https://docs.google.com/forms/d/1h2ZDUbSByecZB2MKgU9GyEfNHZ_NO2FglI8aDwUDTHA/viewform)
 
