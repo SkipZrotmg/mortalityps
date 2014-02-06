@@ -6,3 +6,4 @@
 * /setpiece Pentaract
 * /setpiece Oasis
 * /setpiece LavaFissure
+* /setpiece Hermit
