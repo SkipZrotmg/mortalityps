@@ -10,7 +10,7 @@ T14/T15 and T7/T8 item list [here](http://www.mpgh.net/forum/654-realm-mad-god-d
 
 ### Install:
  
-1. Download mortality.swf/exe latest version is always [here](http://www.mediafire.com/download/bab95l6up6264o3/Mortality-1.0.7.exe)
+1. [Download](https://www.mediafire.com/?gcdzdh2g7kaa88l) mortality.swf/exe latest version
 
 2. Click servers and make sure mortality is selected
 
