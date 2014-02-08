@@ -10,15 +10,11 @@ T14/T15 and T7/T8 item list [here](http://www.mpgh.net/forum/654-realm-mad-god-d
 
 ### Install:
  
-1. Download mortality.swf latest version is always [here](https://www.mediafire.com/?j1a9r714oftm2w4)
+1. Download mortality.swf/exe latest version is always [here](https://www.mediafire.com/?j1a9r714oftm2w4)
 
-2. Open with Flash projecter found[here](http://download.macromedia.com/pub/flashplayer/updaters/11/flashplayer_11_sa.exe)
+2. Click servers and make sure mortality is selected
 
-3. Open mortality.swf with Flash projector (right click> open with...> browse> find flash porjecter exe)
-
-4. Click servers and make sure mortality is selected
-
-5. Register account and play!
+3. Register account and play!
 
 ### Commands(Ranks inherit commands below rank):
 
