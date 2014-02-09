@@ -2,7 +2,7 @@
 
 * /setpiece SkullShrine
 * /setpiece CubeGod
-* /setpiece Sphix
+* /setpiece Sphinx
 * /setpiece Pentaract
 * /setpiece Oasis
 * /setpiece LavaFissure
